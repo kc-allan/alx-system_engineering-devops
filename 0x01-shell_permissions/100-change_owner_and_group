@@ -1,0 +1,2 @@
+#!/bin/badh
+chown -R vincent:staff .
