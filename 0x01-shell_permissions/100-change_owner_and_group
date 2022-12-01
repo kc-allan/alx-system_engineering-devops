@@ -1,2 +1,2 @@
-#!/bin/badh
+#!/bin/bash
 chown -R vincent:staff .
