@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-=======
-#!/bin/bas
->>>>>>> cae1595ed91da53623452bff89dee88af699488a
 tr -d "cC"
