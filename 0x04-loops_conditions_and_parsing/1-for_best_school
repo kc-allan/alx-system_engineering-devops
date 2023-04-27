@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# for loop display8ng best school 10 times
+
 for i in {1..10};
 do
 	echo "Best School";
