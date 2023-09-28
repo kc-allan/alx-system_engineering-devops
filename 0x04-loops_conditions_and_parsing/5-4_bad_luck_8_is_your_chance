@@ -7,13 +7,14 @@ count=0
 
 while ((count < 10))
 do
-    if ((count == 4))
+    if ((count == 3))
     then
         echo "bad luck"
-    elif ((count == 8))
+    elif ((count == 7))
     then
         echo "good luck"
+    else
+        echo "Best School"
     fi
-    echo "Best School"
     ((count++))
 done
