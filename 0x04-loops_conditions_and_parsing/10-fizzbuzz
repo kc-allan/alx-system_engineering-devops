@@ -6,17 +6,13 @@ do
     if (($i % 3 == 0 && $i % 5 == 0))
     then
         echo "FizzBuzz"
-        continue
+    elif (($i % 3 == 0))
+    then
+        echo "Fizz"
+    elif (($i % 5  == 0))
+    then
+        echo "Buzz"
     else
-        if (($i % 3 == 0))
-        then
-            echo "Fizz"
-            continue
-        elif (($i % 5  == 0))
-        then
-            echo "Buzz"
-            continue
-        fi
+        echo $i
     fi
-    echo $i
 done
