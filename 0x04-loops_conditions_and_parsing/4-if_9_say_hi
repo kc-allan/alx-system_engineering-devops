@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 #Says 'hi' on the 9th iteration
 
 count=0
