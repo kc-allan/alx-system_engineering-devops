@@ -5,7 +5,7 @@
 
 count=1
 
-while ((count < 20))
+while ((count <= 20))
 do
     echo $count
     case $count in
