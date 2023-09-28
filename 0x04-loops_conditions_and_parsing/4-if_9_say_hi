@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+#Says 'hi' on the 9th iteration
+
+count=0
+
+while ((count < 10))
+do
+    if ((count == 8))
+    then
+        echo "Hi"
+    else
+        echo "Best School"
+    fi
+    ((count++))
+done
