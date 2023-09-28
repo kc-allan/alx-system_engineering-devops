@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Displays file names after the '-' delimiter
+
+list=$(ls)
+
+for itm in $list
+do
+    echo $itm | cut -d "-" -f2
+done
