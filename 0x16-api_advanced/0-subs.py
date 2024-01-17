@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Fetches number of subscribers of a subreddit
+"""
 import requests
 
 
