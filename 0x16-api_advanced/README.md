@@ -1,1 +1,1 @@
-Advanced API with the Reddit API
+Advanced API with the Reddit API.
